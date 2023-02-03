@@ -1,2 +1,2 @@
-Readme file of cv repo
+https://Cheeseday.github.io/rsschool-cv/cv
 
