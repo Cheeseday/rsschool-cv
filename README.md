@@ -1,2 +1,2 @@
-https://Cheeseday.github.io/rsschool-cv/cv
+https://Cheeseday.github.io/rsschool-cv/
 
