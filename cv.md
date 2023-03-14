@@ -20,7 +20,7 @@ an important part of it. It just so happened, front-end is a part of my educatio
 
 
 Interests and hobbies: literature, music, hiking, kayaking trips. <br>
-And I'c crazy about geography, what about that?
+And I'm crazy about geography, what about that?
 
 ---
 
@@ -36,6 +36,25 @@ And I'c crazy about geography, what about that?
 
 ---
 
+### **Code example**
+
+```
+function recycle(array) {
+    return ['paper', 'glass', 'organic', 'plastic'].map(material => {
+        let binsArray = [];
+        array.forEach(obj => {
+            if(obj.material === material || obj.secondMaterial === material){
+                binsArray.push(obj.type);
+            }        
+        });
+       return binsArray;
+    });
+}
+``` 
+
+---
+
 ### **Languages**
 
 English: Pre-intermediate (A2)
+Belarusian: Native
